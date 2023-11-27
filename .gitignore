@@ -1,0 +1,5 @@
+# Exclude specific Python files
+ArtSlogan-*.py
+
+# Exclude IMAGES directory
+./IMAGES/
